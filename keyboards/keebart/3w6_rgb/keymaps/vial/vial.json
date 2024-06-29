@@ -2,6 +2,7 @@
     "name": "3w6_rgb",
     "vendorId": "0xBEEB",
     "productId": "0x0002",
+    "lighting": "vialrgb",
     "matrix": { "rows": 8, "cols": 10 },
     "layouts": {
         "keymap": [
