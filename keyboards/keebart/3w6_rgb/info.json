@@ -1,13 +1,12 @@
 {
     "manufacturer": "Keebart",
-    "keyboard_name": "3w6_rgb",
+    "keyboard_name": "3w6 RGB",
     "maintainer": "Keebart",
     "diode_direction": "COL2ROW",
     "usb": {
         "device_version": "1.0.0",
-        "pid": "0x0003",
-        "vid": "0xBEEB",
-        "no_startup_check": true
+        "vid": "0xFEED",
+        "pid": "0x4658"
     },
     "matrix_pins": {
         "custom": true,
@@ -96,6 +95,7 @@
     },
     "rgb_matrix": {
         "driver": "ws2812",
+        "led_count": 36,
         "max_brightness": 75,
         "animations": {
             "alphas_mods": true,
@@ -142,7 +142,6 @@
             "solid_splash": true,
             "solid_multisplash": true
         },
-        "led_count": 36,
         "layout": [
             { "matrix": [0, 0], "x": 0, "y": 13.5, "flags": 4 },
             { "matrix": [0, 1], "x": 16, "y": 3.4, "flags": 4 },

@@ -2,7 +2,7 @@
 Copyright 2013 Oleg Kostyuk <cub.uanic@gmail.com>
           2020 Pierre Chevalier <pierrechevalier83@gmail.com>
           2021 weteor
-          2024 Keebart
+          2023 beekeeb
 */
 
 // SPDX-License-Identifier: GPL-2.0-or-later
